@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @behzad-parsa
-- 👀 I’m interested in .NetFrameWork
+- 👀 I’m interested in .Net Framework
 - 🌱 I’m currently learning Asp.net
 - 💞️ I’m looking to collaborate on Web Developing
 - 📫 How to reach me : 
+
               Telegeram : @Behzad_p1996 |
               Email : b.parsa1996@yahoo.com
 <!---
