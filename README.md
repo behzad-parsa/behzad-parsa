@@ -5,7 +5,7 @@
 - 📫 How to reach me : 
 
               Telegeram : @Behzad_p1996 
-              Email : b.parsa1996@yahoo.com
+              Email : behzad.parsa1996@yahoo.com
 <!---
 behzadp1996/behzadp1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
