@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @behzad-parsa
-- 👀 I’m interested in .Net Framework
-- 🌱 I’m currently learning Asp.net
-- 💞️ I’m looking to collaborate on Web Developing
+- 👀 I’m interested in .Net Stuff
+- 🌱 I’m currently learning Unit Testing
+- 💞️ I’m looking to collaborate on Web Developing Projects
 - 📫 How to reach me : 
 
               Telegeram : @Behzad_p1996 
